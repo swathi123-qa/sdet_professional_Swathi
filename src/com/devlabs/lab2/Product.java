@@ -8,7 +8,7 @@ public class Product
     {
             System.out.println("-----Product1 object created---------");    
     }
- 
+ //test
     Product(int pid,int price,String name)
     {
             System.out.println("-----Product2 object created---------");    
