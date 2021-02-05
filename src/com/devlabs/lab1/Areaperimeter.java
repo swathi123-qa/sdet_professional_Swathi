@@ -14,6 +14,7 @@ public class Areaperimeter {
 		System.out.println("Area of rectangle is:" +totalArea);
 		System.out.println("perimtre of rectangle is:" +totalPerimetre);
 		
+		
 
 	}
 
